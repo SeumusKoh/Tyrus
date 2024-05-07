@@ -1,3 +1,3 @@
 function pictures() {
-  window.location.href = "seumuskoh.github.io/Tyrus/pictures.html";
+  window.location.href = "https://seumuskoh.github.io/Tyrus/pictures.html";
 }
