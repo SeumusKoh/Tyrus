@@ -1,3 +1,3 @@
 function pictures() {
-  window.location.href = "/pictures.html";
+  window.location.href = "/Tyrus/pictures.html";
 }
